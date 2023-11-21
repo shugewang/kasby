@@ -1,0 +1,33 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": true,
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": false
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "editor.tabSize": 2,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#58cd22",
+    "activityBar.activeBackground": "#58cd22",
+    "activityBar.activeBorder": "#fffb00",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#80ffb5",
+    "activityBarBadge.foreground": "#15202b",
+    "titleBar.activeBackground": "#58cd22",
+    "titleBar.inactiveBackground": "#58cd22",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveForeground": "#15202b99",
+    "statusBar.background": "#58cd22",
+    "statusBarItem.hoverBackground": "#bf5000",
+    "statusBar.foreground": "#15202b",
+    "sash.hoverBorder": "#58cd22",
+    "statusBarItem.remoteBackground": "#58cd22",
+    "statusBarItem.remoteForeground": "#15202b",
+    "commandCenter.border": "#15202b99"
+  }
+}
